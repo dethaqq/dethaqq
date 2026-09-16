@@ -2,7 +2,7 @@
 
 10th grade student
 
-### Learning
+### In touch with
 - C
 - Python
 
