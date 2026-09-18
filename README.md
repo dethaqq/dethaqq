@@ -9,5 +9,5 @@
 <p align="center">
   <img src="./assets/Starry_Night_Over_the_Rhone.jpg" width="650">
   <br>
-  <sub>Vincent van Gogh — The Starry Night, 1889</sub>
+  <sub>Vincent van Gogh — Starry Night Over The Rhone, 1889</sub>
 </p>
