@@ -7,7 +7,7 @@
 - Python
 
 <p align="center">
-  <img src="./assets/starry-night.jpg" width="350">
+  <img src="./assets/Starry_Night_Over_the_Rhone.jpg" width="350">
   <br>
   <sub>Vincent van Gogh — The Starry Night, 1889</sub>
 </p>
