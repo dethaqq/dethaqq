@@ -6,3 +6,8 @@
 - C
 - Python
 
+<p align="center">
+  <img src="./assets/starry-night.jpg" width="350">
+  <br>
+  <sub>Vincent van Gogh — The Starry Night, 1889</sub>
+</p>
